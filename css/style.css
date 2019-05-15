@@ -5,7 +5,7 @@ body{
     color: #34495e;
     line-height: 1.8;
 }
-a{
+a {
     color: #34495e;
     text-decoration: none;
 }
@@ -39,6 +39,7 @@ nav a{
     font-size: 1.5em;
     display: inline-block;
     vertical-align: middle;
+    margin: 0 50px;
 }
 nav a .fa{
     display: block;
@@ -80,6 +81,7 @@ font-size: 1.2em;
     background-position: left bottom;
     color: white;
     line-height: 2;
+    display: inline-block;
 
 }
 .description article{
